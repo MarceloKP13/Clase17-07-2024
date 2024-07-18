@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\bin\Debug\NúmerosPares.exe.config
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\bin\Debug\NúmerosPares.exe
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\bin\Debug\NúmerosPares.pdb
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\obj\Debug\NúmerosPares.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\obj\Debug\NúmerosPares.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\obj\Debug\NúmerosPares.exe
+C:\Users\user\source\repos\Clase17-07-2024\NúmerosPares\obj\Debug\NúmerosPares.pdb
